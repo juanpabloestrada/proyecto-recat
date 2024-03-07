@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "proyecto-recat",
+  "version": "1.0.0",
+  "description": "Repositorio de recursos, ejemplos en vivo y Hands-On. Comisión #53115",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JPEP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}
